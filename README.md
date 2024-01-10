@@ -2,7 +2,7 @@
 
 **Pizza Delivery Web App**
 
-**Breve Descrição: Este projeto é uma aplicação web para pedidos de pizzas. A aplicação utiliza Next.js, React e React DOM, proporcionando uma interface responsiva com animações e rotas. As funcionalidades futuras incluirão armazenamento de dados de pedidos, uma API para adicionar novas pizzas, rastreamento de pedidos, sistema de pagamentos, e autenticação para clientes e administradores. O projeto é licenciado sob a GNU GENERAL PUBLIC LICENSE.**
+*Breve Descrição: Este projeto é uma aplicação web para pedidos de pizzas. A aplicação utiliza Next.js, React e React DOM, proporcionando uma interface responsiva com animações e rotas. As funcionalidades futuras incluirão armazenamento de dados de pedidos, uma API para adicionar novas pizzas, rastreamento de pedidos, sistema de pagamentos, e autenticação para clientes e administradores. O projeto é licenciado sob a GNU GENERAL PUBLIC LICENSE.*
 -
 
 ![Git print1](https://github.com/AndreRamos-js/PizzaDelivery/assets/83097746/c342de73-b67e-4f63-8583-f5381813072b)
