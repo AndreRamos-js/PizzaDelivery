@@ -1,5 +1,7 @@
+import React from "react";
 import styles from "../styles/Cart.module.css";
 import Image from "next/image";
+
 
 const Cart = () => {
     return (
